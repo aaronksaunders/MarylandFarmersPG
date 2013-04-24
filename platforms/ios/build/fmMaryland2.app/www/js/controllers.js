@@ -10,23 +10,29 @@ angular.module("myApp").controller('AppController', function ($rootScope, $scope
     };
 
     $scope.facebookLogout = function () {
-        FacebookService.logout();
-        $scope.loggedInFB = false;
+        setTimeout(function () {
+            FacebookService.logout();
+            $scope.loggedInFB = false;
+        }, 500);
     };
 
     $scope.facebookLogin = function () {
-        FacebookService.login($rootScope, function () {
 
-            var wallData = {
-                message: "WOW with my mobile application I can post to my Facebook wall!",
-                link: "http://www.clearlyinnovative.com",
-                picture: "http://www.clearlyinnovative.com/wp-content/themes/theme/images/pic-featured.png"
-            };
+        // give window time to close
+        setTimeout(function () {
+            FacebookService.login($rootScope, function () {
 
-            FacebookService.postToWall($scope, wallData);
+                var wallData = {
+                    message: "WOW with my mobile application I can post to my Facebook wall!",
+                    link: "http://www.clearlyinnovative.com",
+                    picture: "http://www.clearlyinnovative.com/wp-content/themes/theme/images/pic-featured.png"
+                };
 
-            $scope.loggedInFB = true;
-        });
+                FacebookService.postToWall($scope, wallData);
+
+                $scope.loggedInFB = true;
+            });
+        }, 600);
     };
 
     $scope.farmers = [];
