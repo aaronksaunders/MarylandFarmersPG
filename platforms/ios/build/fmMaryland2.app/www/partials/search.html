@@ -1,0 +1,51 @@
+<section id="search" data-transition="slide" class="active">
+    <header data-title="Farmers Market App">
+        <nav class="left">
+            <a href="#/" data-icon="left" class="left"></a>
+        </nav>
+    </header>
+
+    <article id="search-article" class="active scroll">
+        
+        
+        <ul class="list indented">
+            <li><strong>
+            <div class="form center" style="width:280px" class="center" >
+                
+                <label class="input">Enter text from title or description</label>
+                <p>
+                    &nbsp;
+                </p>
+                <input ng-model="searchString" type="search" placeholder="Search...">
+                
+            </div>
+            </strong>
+            </li>
+            <li><strong>
+            <div class="form center" style="width:280px" class="center" >
+                <label>Distance from your location</label>
+                <p>
+                    &nbsp;
+                </p>                
+                <label class="select">
+                    <select  ng-model="searchDistance" class="custom">
+                        <option value="10">10 miles</option>
+                        <option value="20">20 miles</option>
+                        <option value="30">30 miles</option>
+                        <option value="40">40 miles</option>
+                        <option value="10000">40+</option>
+                    </select>
+                </label> 
+            </div>
+            </strong>
+            </li>
+        </ul>   
+
+        <div align="center">
+            <a ng-href="#/" class="button accept" ng-click="setSearchParameters()">SEARCH</a>&nbsp;
+            <a ng-href="#/" class="button cancel">CANCEL</a>
+        </div>            
+
+        
+    </article>
+</section>

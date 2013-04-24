@@ -1,0 +1,16 @@
+<section id="camera" data-transition="slide" ng-controller="PhotoCtrl" class="center-page active">
+    <header>
+        <nav class="left">
+            <a href="#/">Home</a>
+            <a href="#/map">Map</a>
+        </nav>
+    </header>
+    
+    <article class="center-page active">
+        <p><button ng-click="takePhoto()">Take a picture</button></p>
+        <div><img id="photo" ng-src="{{photoURI}}" height="50%" width="50%" ng-alt="{{photoURI}}"/></div>
+        <p ng-model="photoURI">
+            {{photoURI}}
+        </p>
+    </article>
+</section>

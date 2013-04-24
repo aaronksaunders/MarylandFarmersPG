@@ -1,0 +1,688 @@
+TfmMaryland2
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Info.plist fmMaryland2/fmMaryland2-Info.plist
+cPhaseScriptExecution "Copy www directory" /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Script-304B58A110DAC018002A0835.sh
+cCpResource fmMaryland2/config.xml build/fmMaryland2.app/config.xml
+cCpResource fmMaryland2/Resources/icons/icon-72.png build/fmMaryland2.app/icon-72.png
+cCpResource fmMaryland2/Resources/icons/icon.png build/fmMaryland2.app/icon.png
+cCpResource fmMaryland2/Resources/icons/icon@2x.png build/fmMaryland2.app/icon@2x.png
+cCpResource fmMaryland2/Resources/Capture.bundle build/fmMaryland2.app/Capture.bundle
+cCopyStringsFile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/en.lproj/Localizable.strings fmMaryland2/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/es.lproj/Localizable.strings fmMaryland2/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.xib
+cCopyStringsFile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/de.lproj/Localizable.strings fmMaryland2/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/se.lproj/Localizable.strings fmMaryland2/Resources/se.lproj/Localizable.strings
+cCpResource fmMaryland2/Resources/splash/Default-Landscape@2x~ipad.png build/fmMaryland2.app/Default-Landscape@2x~ipad.png
+cCpResource fmMaryland2/Resources/splash/Default-Landscape~ipad.png build/fmMaryland2.app/Default-Landscape~ipad.png
+cCpResource fmMaryland2/Resources/splash/Default-Portrait@2x~ipad.png build/fmMaryland2.app/Default-Portrait@2x~ipad.png
+cCpResource fmMaryland2/Resources/splash/Default@2x~iphone.png build/fmMaryland2.app/Default@2x~iphone.png
+cCpResource fmMaryland2/Resources/splash/Default~iphone.png build/fmMaryland2.app/Default~iphone.png
+cCpResource fmMaryland2/Resources/splash/Default-Portrait~ipad.png build/fmMaryland2.app/Default-Portrait~ipad.png
+cCpResource fmMaryland2/Resources/icons/icon-72@2x.png build/fmMaryland2.app/icon-72@2x.png
+cCpResource fmMaryland2/Resources/splash/Default-568h@2x~iphone.png build/fmMaryland2.app/Default-568h@2x~iphone.png
+cProcessPCH /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/fmMaryland2-Prefix-gzpwvihrmpdccudqlpyquzugdhqw/fmMaryland2-Prefix.pch.pth fmMaryland2/fmMaryland2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/main.o /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/AppDelegate.o /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/MainViewController.o /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/fmMaryland2 normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c0000000050D3284500000000001EAFC0
+t1356015685
+s2011072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c0000000050D3284500000000000C0EF0
+t1356015685
+s790256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c0000000050D328450000000000193640
+t1356015685
+s1652288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c0000000050D3284500000000000225D0
+t1356015685
+s140752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050D3284500000000003D2B80
+t1356015685
+s4008832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000050D328450000000000215D60
+t1356015685
+s2186592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050D328450000000000228FD0
+t1356015685
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000050D32845000000000009C220
+t1356015685
+s639520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c0000000050D328450000000000085620
+t1356015685
+s546336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050D3284600000000003DCEF0
+t1356015686
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c0000000050D3284700000000002C6C10
+t1356015687
+s2911248
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000050D3284700000000000BCB50
+t1356015687
+s772944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000050D3284700000000001D57A0
+t1356015687
+s1922976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000050D32847000000000006CC50
+t1356015687
+s445520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050D328480000000000AB3D60
+t1356015688
+s11222368
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app.dSYM
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Capture.bundle
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default-568h@2x~iphone.png
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default-Landscape@2x~ipad.png
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default-Portrait@2x~ipad.png
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default@2x~iphone.png
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default~iphone.png
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Info.plist
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/MainViewController.nib
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/PkgInfo
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/config.xml
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/de.lproj/Localizable.strings
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/es.lproj/Localizable.strings
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/fmMaryland2
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/icon-72.png
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/icon-72@2x.png
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/icon.png
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/icon@2x.png
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/se.lproj/Localizable.strings
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/fmMaryland2.LinkFileList
+c00000000517745CC00000000000001E9
+t1366771148
+s489
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Script-304B58A110DAC018002A0835.sh
+c00000000517745CC0000000000000470
+t1366771148
+s1136
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/CDVAvailability.h
+c00000000517743CC0000000000000BED
+t1366770636
+s3053
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+c00000000517743CC00000000000008BA
+t1366770636
+s2234
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+c00000000517743CC0000000000000473
+t1366770636
+s1139
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+c00000000517743CC0000000000000501
+t1366770636
+s1281
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+c00000000517743CC0000000000000906
+t1366770636
+s2310
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/CDVPlugin.h
+c00000000517743CC0000000000000876
+t1366770636
+s2166
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/CDVPluginResult.h
+c00000000517743CC0000000000000C13
+t1366770636
+s3091
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+c00000000517743CC0000000000000408
+t1366770636
+s1032
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/CDVViewController.h
+c00000000517743CC0000000000000B67
+t1366770636
+s2919
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/CDVWhitelist.h
+c00000000517743CC000000000000052D
+t1366770636
+s1325
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+c00000000517743CC00000000000003A0
+t1366770636
+s928
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/libCordova.a
+c00000000517745CC000000000035E7B8
+t1366771148
+s3532728
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/AppDelegate.h
+c000000005176DA0200000000000005BB
+t1366743554
+s1467
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/AppDelegate.m
+c000000005176DA02000000000000123E
+t1366743554
+s4670
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.h
+c000000005176DA0200000000000004D1
+t1366743554
+s1233
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.m
+c000000005176DA02000000000000126C
+t1366743554
+s4716
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.xib
+c000000005176DA020000000000001759
+t1366743554
+s5977
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/Capture.bundle
+c000000005176DA02000000000000030E
+t1366743554
+s782
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/de.lproj/Localizable.strings
+c000000005176DA020000000000000485
+t1366743554
+s1157
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/en.lproj/Localizable.strings
+c000000005176DA020000000000000470
+t1366743554
+s1136
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/es.lproj/Localizable.strings
+c000000005176DA02000000000000047D
+t1366743554
+s1149
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/icons/icon-72.png
+c000000005176DA020000000000001350
+t1366743554
+s4944
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/icons/icon-72@2x.png
+c000000005176DA020000000000002DBA
+t1366743554
+s11706
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/icons/icon.png
+c000000005176DA020000000000000F3E
+t1366743554
+s3902
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/icons/icon@2x.png
+c000000005176DA020000000000001EBD
+t1366743554
+s7869
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/se.lproj/Localizable.strings
+c000000005176DA020000000000000471
+t1366743554
+s1137
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default-568h@2x~iphone.png
+c000000005176DA0200000000000085B1
+t1366743554
+s34225
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default-Landscape@2x~ipad.png
+c000000005176DA020000000000012DF4
+t1366743554
+s77300
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default-Landscape~ipad.png
+c000000005176DA020000000000008877
+t1366743554
+s34935
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default-Portrait@2x~ipad.png
+c000000005176DA020000000000012B02
+t1366743554
+s76546
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default-Portrait~ipad.png
+c000000005176DA0200000000000085E6
+t1366743554
+s34278
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default@2x~iphone.png
+c000000005176DA020000000000007323
+t1366743554
+s29475
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default~iphone.png
+c000000005176DA02000000000000289A
+t1366743554
+s10394
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/config.xml
+c00000000517745C9000000000000089C
+t1366771145
+s2204
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/fmMaryland2-Prefix.pch
+c000000005176DA0300000000000003C7
+t1366743555
+s967
+
+N/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/main.m
+c000000005176DA02000000000000045D
+t1366743554
+s1117
+
+N/var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/fmMaryland2-Prefix-gzpwvihrmpdccudqlpyquzugdhqw/fmMaryland2-Prefix.pch.pth
+t2
+s0
+
+NfmMaryland2/fmMaryland2-Info.plist
+c00000000517745C9000000000000073F
+t1366771145
+s1855
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies86905b4c7d27b741^a94c5d4c7d27b741^---0#1#0#--18"Check dependencies36"0B41B0DB-ECBA-4256-BE7D-9E0EC34D3BD6-
+
+CCompileC build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/AppDelegate.o /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388463949.622459
+e388463949.716874
+r1
+xCompileC
+xbuild/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/AppDelegate.o
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/AppDelegate.m:68:25: warning: 'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property. [-Wdeprecated-declarations]
+o    self.viewController.useSplashScreen = YES;
+o                        ^
+o/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/CDVViewController.h:46:47: note: 'useSplashScreen' declared here
+o@property (nonatomic, readwrite, assign) BOOL useSplashScreen CDV_DEPRECATED(2.5, "Add/Remove the SplashScreen plugin instead of setting this property.");
+o                                              ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/AppDelegate.m03b29f4d7d27b741^b37db84d7d27b741^-721"/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/AppDelegate.m:68:25: warning: 'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property. [-Wdeprecated-declarations]    self.viewController.useSplashScreen = YES;                        ^/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include/Cordova/CDVViewController.h:46:47: note: 'useSplashScreen' declared here@property (nonatomic, readwrite, assign) BOOL useSplashScreen CDV_DEPRECATED(2.5, "Add/Remove the SplashScreen plugin instead of setting this property.");                                              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@128"'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property.-388463949#18446744073709551615#0#1(2@31"'useSplashScreen' declared here-388463949#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@119"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/CordovaLib/Classes/CDVViewController.h0000000000000000^45#46#45#46#1826#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@114"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/AppDelegate.m0000000000000000^67#24#67#24#2282#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@114"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/AppDelegate.m0000000000000000^4197"CompileC build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/AppDelegate.o fmMaryland2/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-generated-files.hmap -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-own-target-headers.hmap -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-all-target-headers.hmap -iquote /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-project-headers.hmap -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/usr/local/lib/include -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/UninstalledProducts/include -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/DerivedSources/i386 -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/DerivedSources -F/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build -include /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/fmMaryland2-Prefix-gzpwvihrmpdccudqlpyquzugdhqw/fmMaryland2-Prefix.pch -MMD -MT dependencies -MF /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/AppDelegate.dia -c /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/AppDelegate.m -o /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/AppDelegate.o36"E99F9DF6-760D-48A1-B6F1-B26177864928-
+
+CCompileC build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/MainViewController.o /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388463949.623627
+e388463949.712338
+r1
+xCompileC
+xbuild/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/MainViewController.o
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.m978ba04d7d27b741^0ea1b64d7d27b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.m0000000000000000^4239"CompileC build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/MainViewController.o fmMaryland2/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-generated-files.hmap -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-own-target-headers.hmap -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-all-target-headers.hmap -iquote /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-project-headers.hmap -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/usr/local/lib/include -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/UninstalledProducts/include -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/DerivedSources/i386 -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/DerivedSources -F/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build -include /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/fmMaryland2-Prefix-gzpwvihrmpdccudqlpyquzugdhqw/fmMaryland2-Prefix.pch -MMD -MT dependencies -MF /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/MainViewController.dia -c /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.m -o /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/MainViewController.o36"236F8059-7AB8-4A31-A14A-EC9158BC71DC-
+
+CCompileC build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/main.o /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388463949.622432
+e388463949.646994
+r1
+xCompileC
+xbuild/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/main.o
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/main.mb4b09f4d7d27b741^77a1a54d7d27b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/main.m0000000000000000^4139"CompileC build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/main.o fmMaryland2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-generated-files.hmap -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-own-target-headers.hmap -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-all-target-headers.hmap -iquote /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-project-headers.hmap -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/usr/local/lib/include -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/UninstalledProducts/include -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/DerivedSources/i386 -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/DerivedSources -F/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build -include /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/fmMaryland2-Prefix-gzpwvihrmpdccudqlpyquzugdhqw/fmMaryland2-Prefix.pch -MMD -MT dependencies -MF /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/main.dia -c /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/main.m -o /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/main.o36"75D9C249-8CAA-41A2-B837-B18B018462B0-
+
+CCompileXIB /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.xib
+s388463948.561188
+e388463949.386921
+r1
+xCompileXIB
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.xib
+o2013-04-23 22:39:09.016 Interface Builder Cocoa Touch Tool[42104:f07] CFPreferences: user home directory at file://localhost/Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compiling /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.xib1b66904c7d27b741^4e0e634d7d27b741^-247"2013-04-23 22:39:09.016 Interface Builder Cocoa Touch Tool[42104:f07] CFPreferences: user home directory at file://localhost/Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.xib0000000000000000^1247"CompileXIB fmMaryland2/Classes/MainViewController.xib    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/MainViewController.nib /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Classes/MainViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"656C730F-1898-4829-A8B5-65EA153367FF-
+
+CCopyStringsFile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/de.lproj/Localizable.strings fmMaryland2/Resources/de.lproj/Localizable.strings
+s388463948.566259
+e388463948.573663
+r1
+xCopyStringsFile
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/de.lproj/Localizable.strings
+xfmMaryland2/Resources/de.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy fmMaryland2/Resources/de.lproj/Localizable.strings5f0c914c7d27b741^1adc924c7d27b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/de.lproj/Localizable.strings0000000000000000^889"CopyStringsFile build/fmMaryland2.app/de.lproj/Localizable.strings fmMaryland2/Resources/de.lproj/Localizable.strings    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/de.lproj -- fmMaryland2/Resources/de.lproj/Localizable.strings36"AB5489DA-EFF4-4337-BEA2-F4BD21954443-
+
+CCopyStringsFile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/en.lproj/Localizable.strings fmMaryland2/Resources/en.lproj/Localizable.strings
+s388463948.558968
+e388463948.572918
+r1
+xCopyStringsFile
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/en.lproj/Localizable.strings
+xfmMaryland2/Resources/en.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy fmMaryland2/Resources/en.lproj/Localizable.strings3c868f4c7d27b741^f3aa924c7d27b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/en.lproj/Localizable.strings0000000000000000^889"CopyStringsFile build/fmMaryland2.app/en.lproj/Localizable.strings fmMaryland2/Resources/en.lproj/Localizable.strings    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/en.lproj -- fmMaryland2/Resources/en.lproj/Localizable.strings36"63B767EF-FA13-45B0-BC57-B16C08562670-
+
+CCopyStringsFile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/es.lproj/Localizable.strings fmMaryland2/Resources/es.lproj/Localizable.strings
+s388463948.559209
+e388463948.573121
+r1
+xCopyStringsFile
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/es.lproj/Localizable.strings
+xfmMaryland2/Resources/es.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy fmMaryland2/Resources/es.lproj/Localizable.strings48878f4c7d27b741^2cb9924c7d27b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/es.lproj/Localizable.strings0000000000000000^889"CopyStringsFile build/fmMaryland2.app/es.lproj/Localizable.strings fmMaryland2/Resources/es.lproj/Localizable.strings    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/es.lproj -- fmMaryland2/Resources/es.lproj/Localizable.strings36"1A86425B-8315-4358-85E0-65C472D9081A-
+
+CCopyStringsFile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/se.lproj/Localizable.strings fmMaryland2/Resources/se.lproj/Localizable.strings
+s388463948.566269
+e388463948.574837
+r1
+xCopyStringsFile
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/se.lproj/Localizable.strings
+xfmMaryland2/Resources/se.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy fmMaryland2/Resources/se.lproj/Localizable.strings9d0d914c7d27b741^c828934c7d27b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/se.lproj/Localizable.strings0000000000000000^889"CopyStringsFile build/fmMaryland2.app/se.lproj/Localizable.strings fmMaryland2/Resources/se.lproj/Localizable.strings    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/se.lproj -- fmMaryland2/Resources/se.lproj/Localizable.strings36"0E4F444E-FAAF-40B5-B08F-98930F0C98D2-
+
+CCpResource fmMaryland2/Resources/Capture.bundle build/fmMaryland2.app/Capture.bundle
+s388463948.558960
+e388463948.571529
+r1
+xCpResource
+xfmMaryland2/Resources/Capture.bundle
+xbuild/fmMaryland2.app/Capture.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy build/fmMaryland2.app/Capture.bundle302c8f4c7d27b741^7250924c7d27b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Capture.bundle000000000080d041^917"CpResource fmMaryland2/Resources/Capture.bundle build/fmMaryland2.app/Capture.bundle    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/Capture.bundle /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"5D3C4305-4B00-4A30-9D00-DECB5815F866-
+
+CCpResource fmMaryland2/Resources/icons/icon-72.png build/fmMaryland2.app/icon-72.png
+s388463948.558899
+e388463948.566592
+r1
+xCpResource
+xfmMaryland2/Resources/icons/icon-72.png
+xbuild/fmMaryland2.app/icon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy build/fmMaryland2.app/icon-72.pngaa2b8f4c7d27b741^e90b914c7d27b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/icon-72.png000000000080d041^920"CpResource fmMaryland2/Resources/icons/icon-72.png build/fmMaryland2.app/icon-72.png    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/icons/icon-72.png /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"8E81DA26-E4F3-488D-9EBD-19DEC605F998-
+
+CCpResource fmMaryland2/Resources/icons/icon-72@2x.png build/fmMaryland2.app/icon-72@2x.png
+s388463948.575950
+e388463948.582442
+r1
+xCpResource
+xfmMaryland2/Resources/icons/icon-72@2x.png
+xbuild/fmMaryland2.app/icon-72@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy build/fmMaryland2.app/icon-72@2x.png5a7f934c7d27b741^821b954c7d27b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/icon-72@2x.png000000000080d041^935"CpResource "fmMaryland2/Resources/icons/icon-72@2x.png" "build/fmMaryland2.app/icon-72@2x.png"    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/icons/icon-72@2x.png" /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"7AE40DF4-A3C1-45F6-AC1B-1D3D1A1571E4-
+
+CCpResource fmMaryland2/Resources/icons/icon.png build/fmMaryland2.app/icon.png
+s388463948.558905
+e388463948.564203
+r1
+xCpResource
+xfmMaryland2/Resources/icons/icon.png
+xbuild/fmMaryland2.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy build/fmMaryland2.app/icon.png8d2a8f4c7d27b741^4374904c7d27b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/icon.png000000000080d041^911"CpResource fmMaryland2/Resources/icons/icon.png build/fmMaryland2.app/icon.png    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/icons/icon.png /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"3572A0B6-E864-44C0-B343-DCA6FB7282CC-
+
+CCpResource fmMaryland2/Resources/icons/icon@2x.png build/fmMaryland2.app/icon@2x.png
+s388463948.558923
+e388463948.568862
+r1
+xCpResource
+xfmMaryland2/Resources/icons/icon@2x.png
+xbuild/fmMaryland2.app/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy build/fmMaryland2.app/icon@2x.png247c8f4c7d27b741^34a1914c7d27b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/icon@2x.png000000000080d041^926"CpResource "fmMaryland2/Resources/icons/icon@2x.png" "build/fmMaryland2.app/icon@2x.png"    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/icons/icon@2x.png" /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"B57491F1-6A11-4096-9955-B86FBCCFC988-
+
+CCpResource fmMaryland2/Resources/splash/Default-568h@2x~iphone.png build/fmMaryland2.app/Default-568h@2x~iphone.png
+s388463948.575954
+e388463948.583700
+r1
+xCpResource
+xfmMaryland2/Resources/splash/Default-568h@2x~iphone.png
+xbuild/fmMaryland2.app/Default-568h@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/fmMaryland2.app/Default-568h@2x~iphone.png5d86934c7d27b741^7e71954c7d27b741^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default-568h@2x~iphone.png000000000080d041^973"CpResource "fmMaryland2/Resources/splash/Default-568h@2x~iphone.png" "build/fmMaryland2.app/Default-568h@2x~iphone.png"    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default-568h@2x~iphone.png" /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"269B6A57-2078-4605-8A99-EDD366E39C09-
+
+CCpResource fmMaryland2/Resources/splash/Default-Landscape@2x~ipad.png build/fmMaryland2.app/Default-Landscape@2x~ipad.png
+s388463948.567772
+e388463948.575778
+r1
+xCpResource
+xfmMaryland2/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/fmMaryland2.app/Default-Landscape@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/fmMaryland2.app/Default-Landscape@2x~ipad.pngc26d914c7d27b741^5166934c7d27b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default-Landscape@2x~ipad.png000000000080d041^982"CpResource "fmMaryland2/Resources/splash/Default-Landscape@2x~ipad.png" "build/fmMaryland2.app/Default-Landscape@2x~ipad.png"    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default-Landscape@2x~ipad.png" /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"FDFAFB3B-A3EC-4FA0-81D2-F708BEF95952-
+
+CCpResource fmMaryland2/Resources/splash/Default-Landscape~ipad.png build/fmMaryland2.app/Default-Landscape~ipad.png
+s388463948.570001
+e388463948.576756
+r1
+xCpResource
+xfmMaryland2/Resources/splash/Default-Landscape~ipad.png
+xbuild/fmMaryland2.app/Default-Landscape~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/fmMaryland2.app/Default-Landscape~ipad.pngf0fd914c7d27b741^9ca6934c7d27b741^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default-Landscape~ipad.png000000000080d041^973"CpResource "fmMaryland2/Resources/splash/Default-Landscape~ipad.png" "build/fmMaryland2.app/Default-Landscape~ipad.png"    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default-Landscape~ipad.png" /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"7A1881FB-3179-4709-813D-826319D45857-
+
+CCpResource fmMaryland2/Resources/splash/Default-Portrait@2x~ipad.png build/fmMaryland2.app/Default-Portrait@2x~ipad.png
+s388463948.572726
+e388463948.577862
+r1
+xCpResource
+xfmMaryland2/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/fmMaryland2.app/Default-Portrait@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/fmMaryland2.app/Default-Portrait@2x~ipad.png96b4924c7d27b741^f6ee934c7d27b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default-Portrait@2x~ipad.png000000000080d041^979"CpResource "fmMaryland2/Resources/splash/Default-Portrait@2x~ipad.png" "build/fmMaryland2.app/Default-Portrait@2x~ipad.png"    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default-Portrait@2x~ipad.png" /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"11886B54-C162-427B-B35E-9548A9F04487-
+
+CCpResource fmMaryland2/Resources/splash/Default-Portrait~ipad.png build/fmMaryland2.app/Default-Portrait~ipad.png
+s388463948.574086
+e388463948.580207
+r1
+xCpResource
+xfmMaryland2/Resources/splash/Default-Portrait~ipad.png
+xbuild/fmMaryland2.app/Default-Portrait~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/fmMaryland2.app/Default-Portrait~ipad.png200d934c7d27b741^c688944c7d27b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default-Portrait~ipad.png000000000080d041^970"CpResource "fmMaryland2/Resources/splash/Default-Portrait~ipad.png" "build/fmMaryland2.app/Default-Portrait~ipad.png"    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default-Portrait~ipad.png" /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"5E3F607C-DB70-4882-98A3-D1612CD637AD-
+
+CCpResource fmMaryland2/Resources/splash/Default@2x~iphone.png build/fmMaryland2.app/Default@2x~iphone.png
+s388463948.574070
+e388463948.581272
+r1
+xCpResource
+xfmMaryland2/Resources/splash/Default@2x~iphone.png
+xbuild/fmMaryland2.app/Default@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/fmMaryland2.app/Default@2x~iphone.png9d0f934c7d27b741^81ce944c7d27b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default@2x~iphone.png000000000080d041^958"CpResource "fmMaryland2/Resources/splash/Default@2x~iphone.png" "build/fmMaryland2.app/Default@2x~iphone.png"    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default@2x~iphone.png" /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"68EEEB34-E9BE-453F-97CC-F7D8B0A1A3AE-
+
+CCpResource fmMaryland2/Resources/splash/Default~iphone.png build/fmMaryland2.app/Default~iphone.png
+s388463948.574076
+e388463948.578955
+r1
+xCpResource
+xfmMaryland2/Resources/splash/Default~iphone.png
+xbuild/fmMaryland2.app/Default~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/fmMaryland2.app/Default~iphone.png890c934c7d27b741^f338944c7d27b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Default~iphone.png000000000080d041^949"CpResource "fmMaryland2/Resources/splash/Default~iphone.png" "build/fmMaryland2.app/Default~iphone.png"    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/Resources/splash/Default~iphone.png" /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"9B18207E-A3DC-4AF0-8DC0-FAB0516830EB-
+
+CCpResource fmMaryland2/config.xml build/fmMaryland2.app/config.xml
+s388463948.558885
+e388463948.564168
+r1
+xCpResource
+xfmMaryland2/config.xml
+xbuild/fmMaryland2.app/config.xml
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy build/fmMaryland2.app/config.xml172a8f4c7d27b741^8b6f904c7d27b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/config.xml000000000080d041^885"CpResource fmMaryland2/config.xml build/fmMaryland2.app/config.xml    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/config.xml /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"A0EDA8A0-9884-4265-8FD9-5518093F0447-
+
+CGenerateDSYMFile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app.dSYM /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/fmMaryland2
+s388463437.972311
+e388463438.053474
+r1
+xGenerateDSYMFile
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app.dSYM
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/fmMaryland2
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generating /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app.dSYM5dfdf84d7b27b741^abb00d4e7b27b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app.dSYM000000000080d041^903"GenerateDSYMFile build/fmMaryland2.app.dSYM build/fmMaryland2.app/fmMaryland2    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/fmMaryland2 -o /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app.dSYM36"8DE6CFB7-8C10-4771-904D-37ADE7A88E62-
+
+CLd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/fmMaryland2 normal i386
+s388463949.724771
+e388463949.744438
+r0
+xLd
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/fmMaryland2
+xnormal
+xi386
+oclang: error: no such file or directory: '/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/libCordova.a'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Link /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/fmMaryland2a7adb94d7d27b741^1745bf4d7d27b741^-127"clang: error: no such file or directory: '/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/libCordova.a'1(21%IDEActivityLogMessage2@112"No such file or directory: '/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/libCordova.a'-388463949#0#127#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#0#--2001"Ld build/fmMaryland2.app/fmMaryland2 normal i386    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build -F/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build -filelist /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/fmMaryland2.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework AssetsLibrary /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/libCordova.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -o /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/fmMaryland236"75EDABA3-217F-469F-8B06-2ED2B041EC89-
+
+CPhaseScriptExecution "Copy www directory" /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Script-304B58A110DAC018002A0835.sh
+s388463948.381967
+e388463948.551471
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.152s
+ouser	0m0.067s
+osys	0m0.077s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'cc79624c7d27b741^be308d4c7d27b741^-42"real	0m0.152suser	0m0.067ssys	0m0.077s3(21%IDEActivityLogMessage2@14"real	0m0.152s-388463948#1#14#-0#-----2@14"user	0m0.067s-388463948#15#14#-0#-----2@13"sys	0m0.077s-388463948#29#13#-0#-----0#0#0#--21722"PhaseScriptExecution "Copy www directory" build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Script-304B58A110DAC018002A0835.sh    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER aaronksaunders    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build    setenv BUILD_ROOT /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build    setenv CACHE_ROOT /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC NO    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build    setenv CONFIGURATION_TEMP_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH fmMaryland2.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH fmMaryland2.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/fmMaryland2.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME fmMaryland2.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH fmMaryland2.app/Executables    setenv EXECUTABLE_FOLDER_PATH fmMaryland2.app    setenv EXECUTABLE_NAME fmMaryland2    setenv EXECUTABLE_PATH fmMaryland2.app/fmMaryland2    setenv FILE_LIST /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH fmMaryland2.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME fmMaryland2.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER fmMaryland2/fmMaryland2-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include\" \"/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/usr/local/lib/include\" \"/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/UninstalledProducts/include\" \"/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE fmMaryland2/fmMaryland2-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH fmMaryland2.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH fmMaryland2.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/fmMaryland2.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER aaronksaunders    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/fmMaryland2.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH fmMaryland2.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal/i386/fmMaryland2.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH fmMaryland2.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12C60    setenv MAC_OS_X_VERSION_ACTUAL 1082    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0802    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Objects-normal    setenv OBJROOT /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH fmMaryland2.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/PkgInfo    setenv PKGINFO_PATH fmMaryland2.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10A403    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60000    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH fmMaryland2.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH fmMaryland2.app/PrivateHeaders    setenv PRODUCT_NAME fmMaryland2    setenv PRODUCT_SETTINGS_PATH /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/fmMaryland2-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT fmMaryland2    setenv PROJECT_DERIVED_FILE_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/DerivedSources    setenv PROJECT_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PROJECT_FILE_PATH /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2.xcodeproj    setenv PROJECT_NAME fmMaryland2    setenv PROJECT_TEMP_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build    setenv PUBLIC_HEADERS_FOLDER_PATH fmMaryland2.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH fmMaryland2.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk    setenv SDK_NAME iphonesimulator6.0    setenv SDK_PRODUCT_BUILD_VERSION 10A403    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH fmMaryland2.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH fmMaryland2.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv SRCROOT /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME fmMaryland2    setenv TARGET_BUILD_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build    setenv TARGET_NAME fmMaryland2    setenv TARGET_TEMP_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build    setenv TEMP_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build    setenv TEMP_FILES_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build    setenv TEMP_FILE_DIR /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build    setenv TEMP_ROOT /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH fmMaryland2.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER aaronksaunders    setenv USER_APPS_DIR /Users/aaronksaunders/Applications    setenv USER_LIBRARY_DIR /Users/aaronksaunders/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH fmMaryland2.app/version.plist    setenv VERSION_INFO_BUILDER aaronksaunders    setenv VERSION_INFO_FILE fmMaryland2_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:fmMaryland2  PROJECT:fmMaryland2-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME fmMaryland2.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4G2008a    setenv XCODE_VERSION_ACTUAL 0452    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0450    setenv YACC yacc    /bin/sh -c /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/Script-304B58A110DAC018002A0835.sh36"46066B97-F805-48D6-ADB4-241B0AE2AD25-
+
+CProcessInfoPlistFile /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Info.plist fmMaryland2/fmMaryland2-Info.plist
+s388463948.371596
+e388463948.374336
+r1
+xProcessInfoPlistFile
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Info.plist
+xfmMaryland2/fmMaryland2-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process fmMaryland2/fmMaryland2-Info.plist473a5f4c7d27b741^9dd45f4c7d27b741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/fmMaryland2-Info.plist0000000000000000^954"ProcessInfoPlistFile build/fmMaryland2.app/Info.plist fmMaryland2/fmMaryland2-Info.plist    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    builtin-infoPlistUtility fmMaryland2/fmMaryland2-Info.plist -genpkginfo /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app/Info.plist36"B04DB706-0969-4D1F-82F5-CAEE49A820F2-
+
+CProcessPCH /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/fmMaryland2-Prefix-gzpwvihrmpdccudqlpyquzugdhqw/fmMaryland2-Prefix.pch.pth fmMaryland2/fmMaryland2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388463949.394621
+e388463949.615577
+r1
+xProcessPCH
+x/var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/fmMaryland2-Prefix-gzpwvihrmpdccudqlpyquzugdhqw/fmMaryland2-Prefix.pch.pth
+xfmMaryland2/fmMaryland2-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile fmMaryland2/fmMaryland2-Prefix.pch9b1d654d7d27b741^c8969d4d7d27b741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/fmMaryland2-Prefix.pch0000000000000000^4119"ProcessPCH /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/fmMaryland2-Prefix-gzpwvihrmpdccudqlpyquzugdhqw/fmMaryland2-Prefix.pch.pth fmMaryland2/fmMaryland2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-generated-files.hmap -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-own-target-headers.hmap -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-all-target-headers.hmap -iquote /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/fmMaryland2-project-headers.hmap -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/include -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/usr/local/lib/include -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/UninstalledProducts/include -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/DerivedSources/i386 -I/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.build/Debug-iphonesimulator/fmMaryland2.build/DerivedSources -F/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build --serialize-diagnostics /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/fmMaryland2-Prefix-gzpwvihrmpdccudqlpyquzugdhqw/fmMaryland2-Prefix.pch.dia -c /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/fmMaryland2/fmMaryland2-Prefix.pch -o /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/fmMaryland2-Prefix-gzpwvihrmpdccudqlpyquzugdhqw/fmMaryland2-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/3t/jb8rnmds61566d3r5zlx0wg40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/fmMaryland2-Prefix-gzpwvihrmpdccudqlpyquzugdhqw/fmMaryland2-Prefix.pch.d36"ABA53C5C-856D-4F39-8A61-D50C7C46CD59-
+
+CTouch /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app
+s388463438.061960
+e388463438.066664
+r1
+xTouch
+x/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Touch /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.appc4ee0f4e7b27b741^a110114e7b27b741^---0#0#0#--668"Touch build/fmMaryland2.app    cd /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express:/Users/aaronksaunders/dev/android_sdk/tools:/Users/aaronksaunders/dev/android_sdk/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/aaronksaunders/dev/phantomjs-1.8.1-macosx/bin:/usr/local/bin/express"    /usr/bin/touch -c /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/ios/build/fmMaryland2.app36"82A0747E-CCEF-43F4-91CF-7A61BE8BC1F5-
+

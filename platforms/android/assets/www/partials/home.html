@@ -1,0 +1,36 @@
+<section id="main" data-transition="slide" >
+    <header data-title="Farmers Market App">
+        <nav class="left">
+            <a data-icon="menu" lab-aside="aside1"></a>
+        </nav>
+        <nav class="right">
+            <a href="#/map">Map</a>
+            <a href="#/camera">Camera</a>
+        </nav>
+    </header>
+
+
+    <article id="main-article" class="active list indented scroll">
+        <ul>
+            <li ng-repeat="item in farmers" ng-click="setCurrentFarmer(item)" class="arrow">
+                <a href="#/detail/{{item.id}}">
+                    <strong>{{item.name}}</strong>
+                    <div>{{item.address}}</div>
+                    <small>{{item.hours}}</small>
+                </a>
+            </li>
+        </ul>
+    </article>
+
+</section>
+
+<aside id="aside1">
+    <header data-title="Farmers App"></header>
+    <article class="active list scroll">
+        <ul>
+            <li><a href="#/map"><strong>Map View</strong></a></li>
+            <li><a href="#/favorites"><strong>Favorites</strong></a></li>
+            <li><a href="#/search"><strong>Search</strong></a></li>
+        </ul>
+    </article>
+</aside>

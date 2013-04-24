@@ -1,0 +1,45 @@
+<section id="detail" data-transition="slide" class="active">
+    <header data-title="Farmers Market App">
+        <nav class="left">
+            <a href="#/" data-icon="left" class="left"></a>
+        </nav>
+    </header>
+
+    <article id="detail-article" class="active scroll">
+        <ul class="list indented">
+            <li><strong>
+                <p>
+                    {{currentObject.name}}
+                </p>
+
+                <p>
+                    {{currentObject.address}}
+                </p>
+
+                <p>
+                    {{currentObject.state}}
+                </p>
+
+                <p>
+                    {{currentObject.hours}}
+                </p>
+            </strong></li>
+
+            <li>
+                {{descriptionString}}
+            </li>
+             <li class="arrow"  ng-click="callPhoneNumber()">
+                <strong>Call:</strong> {{phoneString}}
+            </li>
+            <li class="arrow" ng-click="showDirections()">
+                <strong>Directions to:</strong> {{currentObject.address}}
+            </li>
+            <li>
+                <div id="map_canvas" ui-map="simpleDetailMap" class="mapDetail" ui-options="mapOptions"></div>
+            </li>
+            <li class="arrow" ng-click="openWebsiteURL(currentObject)">
+                <strong>Open Website</strong>
+            </li>
+        </ul>
+    </article>
+</section>

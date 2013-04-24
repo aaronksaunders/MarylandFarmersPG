@@ -1,0 +1,399 @@
+2013-04-23 14:59:21.089 fmMaryland2[11852:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 14:59:21.125 fmMaryland2[11852:c07] Resetting plugins due to page load.
+2013-04-23 14:59:21.166 fmMaryland2[11852:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/ECFF1102-3B4B-4D4A-ACE1-0FF98BB70CBF/fmMaryland2.app/www/index.html
+2013-04-23 14:59:21.173 fmMaryland2[11852:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 14:59:21.179 fmMaryland2[11852:c07] [LOG] report:deviceready
+2013-04-23 15:02:24.303 fmMaryland2[11924:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 15:02:24.335 fmMaryland2[11924:c07] Resetting plugins due to page load.
+2013-04-23 15:02:24.377 fmMaryland2[11924:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/ECFF1102-3B4B-4D4A-ACE1-0FF98BB70CBF/fmMaryland2.app/www/index.html
+2013-04-23 15:02:24.385 fmMaryland2[11924:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 15:02:24.389 fmMaryland2[11924:c07] [LOG] report:deviceready
+2013-04-23 15:03:20.990 fmMaryland2[12134:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 15:03:21.022 fmMaryland2[12134:c07] Resetting plugins due to page load.
+2013-04-23 15:03:21.060 fmMaryland2[12134:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/ECFF1102-3B4B-4D4A-ACE1-0FF98BB70CBF/fmMaryland2.app/www/index.html
+2013-04-23 15:03:21.067 fmMaryland2[12134:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 15:03:21.072 fmMaryland2[12134:c07] [LOG] report:deviceready
+2013-04-23 15:04:30.087 fmMaryland2[12356:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 15:04:30.123 fmMaryland2[12356:c07] Resetting plugins due to page load.
+2013-04-23 15:04:30.692 fmMaryland2[12356:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 15:04:30.699 fmMaryland2[12356:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 15:04:30.704 fmMaryland2[12356:c07] [LOG] deviceready
+2013-04-23 15:04:36.202 fmMaryland2[12356:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 15:04:36.209 fmMaryland2[12356:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 15:04:36.209 fmMaryland2[12356:c07] [LOG] in parse query
+2013-04-23 15:04:36.210 fmMaryland2[12356:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.0025260179852480548}},"limit":25}
+2013-04-23 15:04:42.915 fmMaryland2[12356:c07] [LOG] position [object Object]
+2013-04-23 15:04:50.875 fmMaryland2[12356:c07] [LOG] position [object Object]
+2013-04-23 15:04:55.537 fmMaryland2[12356:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 15:04:55.537 fmMaryland2[12356:c07] [LOG] in parse query
+2013-04-23 15:04:55.537 fmMaryland2[12356:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.0025260179852480548}},"limit":25}
+2013-04-23 15:04:58.877 fmMaryland2[12356:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 15:04:58.878 fmMaryland2[12356:c07] [LOG] in parse query
+2013-04-23 15:04:58.878 fmMaryland2[12356:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.0025260179852480548}},"limit":25}
+2013-04-23 15:05:06.571 fmMaryland2[12356:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 15:05:06.571 fmMaryland2[12356:c07] [LOG] in parse query
+2013-04-23 15:05:06.572 fmMaryland2[12356:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.0050520359704961096}},"limit":25}
+2013-04-23 15:06:02.909 fmMaryland2[12356:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 15:06:02.910 fmMaryland2[12356:c07] [LOG] in parse query
+2013-04-23 15:06:02.910 fmMaryland2[12356:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.0050520359704961096},"Name":{"$regex":"\\QSilver\\E"}},"limit":25}
+2013-04-23 15:06:32.339 fmMaryland2[12356:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 15:06:32.339 fmMaryland2[12356:c07] [LOG] in parse query
+2013-04-23 15:06:32.340 fmMaryland2[12356:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.0050520359704961096},"Name":{"$regex":"\\QSilver\\E"}},"limit":25}
+2013-04-23 15:06:37.923 fmMaryland2[12356:c07] [LOG] position [object Object]
+2013-04-23 15:10:39.029 fmMaryland2[12824:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 15:10:39.062 fmMaryland2[12824:c07] Resetting plugins due to page load.
+2013-04-23 15:10:42.992 fmMaryland2[12824:c07] Finished load of: file:///
+2013-04-23 15:10:42.998 fmMaryland2[12824:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 15:10:43.002 fmMaryland2[12824:c07] [LOG] deviceready
+2013-04-23 15:10:43.043 fmMaryland2[12824:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 15:10:43.043 fmMaryland2[12824:c07] [LOG] in parse query
+2013-04-23 15:10:43.043 fmMaryland2[12824:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.0025260179852480548}},"limit":25}
+2013-04-23 15:11:33.592 fmMaryland2[13236:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 15:11:33.625 fmMaryland2[13236:c07] Resetting plugins due to page load.
+2013-04-23 15:11:38.828 fmMaryland2[13236:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 15:11:38.835 fmMaryland2[13236:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 15:11:38.840 fmMaryland2[13236:c07] [LOG] deviceready
+2013-04-23 15:11:39.076 fmMaryland2[13236:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 15:11:39.077 fmMaryland2[13236:c07] [LOG] in parse query
+2013-04-23 15:11:39.077 fmMaryland2[13236:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.0025260179852480548}},"limit":25}
+2013-04-23 15:11:49.907 fmMaryland2[13236:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 15:11:49.907 fmMaryland2[13236:c07] [LOG] in parse query
+2013-04-23 15:11:49.907 fmMaryland2[13236:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.0025260179852480548},"Name":{"$regex":"\\QSilver\\E"}},"limit":25}
+Terminating in response to SpringBoard's termination.
+2013-04-23 20:28:22.403 fmMaryland2[19182:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:28:22.436 fmMaryland2[19182:c07] Resetting plugins due to page load.
+2013-04-23 20:28:22.786 fmMaryland2[19182:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 20:28:22.793 fmMaryland2[19182:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 20:28:23.070 fmMaryland2[19182:c07] [LOG] initialize parse
+2013-04-23 20:28:23.077 fmMaryland2[19182:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 20:28:23.490 fmMaryland2[19182:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 20:28:23.491 fmMaryland2[19182:c07] [LOG] in parse query iPhone Simulator {"page":0,"limit":25,"skip":0,"location":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}}
+2013-04-23 20:28:23.491 fmMaryland2[19182:c07] [LOG] the query {"where":{},"limit":25}
+2013-04-23 20:28:24.091 fmMaryland2[19182:c07] [LOG] 25
+2013-04-23 20:30:15.214 fmMaryland2[19622:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:30:15.246 fmMaryland2[19622:c07] Resetting plugins due to page load.
+2013-04-23 20:30:15.484 fmMaryland2[19622:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 20:30:15.490 fmMaryland2[19622:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 20:30:15.766 fmMaryland2[19622:c07] [LOG] initialize parse
+2013-04-23 20:30:15.771 fmMaryland2[19622:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 20:30:16.563 fmMaryland2[19622:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 20:30:16.564 fmMaryland2[19622:c07] [LOG] in parse query iPhone Simulator {"page":0,"limit":25,"skip":0,"location":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}}
+2013-04-23 20:30:16.564 fmMaryland2[19622:c07] [LOG] the query {"where":{},"limit":25}
+2013-04-23 20:30:17.236 fmMaryland2[19622:c07] [LOG] 25
+2013-04-23 20:37:53.656 fmMaryland2[20112:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:37:53.689 fmMaryland2[20112:c07] Resetting plugins due to page load.
+2013-04-23 20:37:54.006 fmMaryland2[20112:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 20:44:02.708 fmMaryland2[20565:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:44:02.741 fmMaryland2[20565:c07] Resetting plugins due to page load.
+2013-04-23 20:44:02.983 fmMaryland2[20565:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 20:44:56.966 fmMaryland2[20983:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:44:56.999 fmMaryland2[20983:c07] Resetting plugins due to page load.
+2013-04-23 20:44:57.191 fmMaryland2[20983:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html
+2013-04-23 20:48:02.085 fmMaryland2[21406:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:48:02.164 fmMaryland2[21406:c07] Resetting plugins due to page load.
+2013-04-23 20:48:02.393 fmMaryland2[21406:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html
+2013-04-23 20:50:34.820 fmMaryland2[21628:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:50:34.866 fmMaryland2[21628:c07] Resetting plugins due to page load.
+2013-04-23 20:50:35.134 fmMaryland2[21628:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-04-23 20:52:21.233 fmMaryland2[22095:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:52:21.264 fmMaryland2[22095:c07] Resetting plugins due to page load.
+2013-04-23 20:52:21.513 fmMaryland2[22095:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html
+2013-04-23 20:52:21.519 fmMaryland2[22095:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 20:53:04.052 fmMaryland2[22310:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:53:04.086 fmMaryland2[22310:c07] Resetting plugins due to page load.
+2013-04-23 20:53:04.284 fmMaryland2[22310:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html
+2013-04-23 20:53:04.292 fmMaryland2[22310:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 20:53:48.677 fmMaryland2[22734:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:53:48.710 fmMaryland2[22734:c07] Resetting plugins due to page load.
+2013-04-23 20:53:48.917 fmMaryland2[22734:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html
+2013-04-23 20:53:48.924 fmMaryland2[22734:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 20:54:18.177 fmMaryland2[23150:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:54:18.228 fmMaryland2[23150:c07] Resetting plugins due to page load.
+2013-04-23 20:54:20.793 fmMaryland2[23150:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 20:54:20.799 fmMaryland2[23150:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 20:54:21.656 fmMaryland2[23150:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 20:54:21.661 fmMaryland2[23150:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 20:54:21.661 fmMaryland2[23150:c07] [LOG] in parse query iPhone Simulator {"page":0,"limit":25,"skip":0,"location":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}}
+2013-04-23 20:54:21.661 fmMaryland2[23150:c07] [LOG] the query {"where":{},"limit":25}
+2013-04-23 20:54:22.139 fmMaryland2[23150:c07] [LOG] 25
+2013-04-23 20:55:29.171 fmMaryland2[23571:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:55:29.203 fmMaryland2[23571:c07] Resetting plugins due to page load.
+2013-04-23 20:55:29.398 fmMaryland2[23571:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html
+2013-04-23 20:55:29.405 fmMaryland2[23571:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 20:59:25.177 fmMaryland2[24006:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:59:25.210 fmMaryland2[24006:c07] Resetting plugins due to page load.
+2013-04-23 20:59:29.595 fmMaryland2[24006:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 20:59:29.604 fmMaryland2[24006:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 20:59:29.804 fmMaryland2[24006:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 20:59:29.804 fmMaryland2[24006:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"location":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}}
+2013-04-23 20:59:29.804 fmMaryland2[24006:c07] [LOG] the query {"where":{},"limit":25}
+2013-04-23 20:59:30.291 fmMaryland2[24006:c07] [LOG] 25
+2013-04-23 20:59:59.947 fmMaryland2[24422:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 20:59:59.979 fmMaryland2[24422:c07] Resetting plugins due to page load.
+2013-04-23 21:00:00.212 fmMaryland2[24422:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:00:00.218 fmMaryland2[24422:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:01:55.433 fmMaryland2[24852:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:01:55.466 fmMaryland2[24852:c07] Resetting plugins due to page load.
+2013-04-23 21:02:03.970 fmMaryland2[24852:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:02:03.976 fmMaryland2[24852:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:02:04.878 fmMaryland2[24852:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 21:02:04.878 fmMaryland2[24852:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"location":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}}
+2013-04-23 21:02:04.879 fmMaryland2[24852:c07] [LOG] the query {"where":{},"limit":25}
+2013-04-23 21:02:06.778 fmMaryland2[24852:c07] [LOG] 25
+2013-04-23 21:03:21.242 fmMaryland2[25276:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:03:21.274 fmMaryland2[25276:c07] Resetting plugins due to page load.
+2013-04-23 21:03:25.263 fmMaryland2[25276:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:03:25.269 fmMaryland2[25276:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:03:25.927 fmMaryland2[25276:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 21:03:25.927 fmMaryland2[25276:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"location":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}}
+2013-04-23 21:03:25.927 fmMaryland2[25276:c07] [LOG] the query {"where":{},"limit":25}
+2013-04-23 21:03:26.492 fmMaryland2[25276:c07] [LOG] 25
+2013-04-23 21:04:01.278 fmMaryland2[25692:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:04:01.312 fmMaryland2[25692:c07] Resetting plugins due to page load.
+2013-04-23 21:04:01.527 fmMaryland2[25692:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:04:01.533 fmMaryland2[25692:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:05:06.427 fmMaryland2[26111:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:05:06.459 fmMaryland2[26111:c07] Resetting plugins due to page load.
+2013-04-23 21:05:06.700 fmMaryland2[26111:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:05:06.706 fmMaryland2[26111:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:06:34.444 fmMaryland2[26537:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:06:34.480 fmMaryland2[26537:c07] Resetting plugins due to page load.
+2013-04-23 21:06:34.776 fmMaryland2[26537:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:06:34.782 fmMaryland2[26537:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:08:12.316 fmMaryland2[26961:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:08:12.348 fmMaryland2[26961:c07] Resetting plugins due to page load.
+2013-04-23 21:08:12.583 fmMaryland2[26961:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:08:12.589 fmMaryland2[26961:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:09:16.900 fmMaryland2[27383:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:09:16.934 fmMaryland2[27383:c07] Resetting plugins due to page load.
+2013-04-23 21:09:17.170 fmMaryland2[27383:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:09:17.176 fmMaryland2[27383:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:12:04.202 fmMaryland2[27805:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:12:04.234 fmMaryland2[27805:c07] Resetting plugins due to page load.
+2013-04-23 21:12:04.505 fmMaryland2[27805:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:12:04.511 fmMaryland2[27805:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:12:46.272 fmMaryland2[28449:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:12:46.311 fmMaryland2[28449:c07] Resetting plugins due to page load.
+2013-04-23 21:12:46.553 fmMaryland2[28449:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:12:46.559 fmMaryland2[28449:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:13:44.926 fmMaryland2[28866:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:13:44.959 fmMaryland2[28866:c07] Resetting plugins due to page load.
+2013-04-23 21:13:45.178 fmMaryland2[28866:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:13:45.184 fmMaryland2[28866:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:14:38.651 fmMaryland2[29285:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:14:38.683 fmMaryland2[29285:c07] Resetting plugins due to page load.
+2013-04-23 21:14:38.931 fmMaryland2[29285:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:14:38.937 fmMaryland2[29285:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:16:33.754 fmMaryland2[29710:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:16:33.788 fmMaryland2[29710:c07] Resetting plugins due to page load.
+2013-04-23 21:16:34.010 fmMaryland2[29710:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:16:34.017 fmMaryland2[29710:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:17:01.173 fmMaryland2[30125:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:17:01.206 fmMaryland2[30125:c07] Resetting plugins due to page load.
+2013-04-23 21:17:01.459 fmMaryland2[30125:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:17:01.465 fmMaryland2[30125:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:17:32.963 fmMaryland2[30539:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:17:32.995 fmMaryland2[30539:c07] Resetting plugins due to page load.
+2013-04-23 21:17:33.211 fmMaryland2[30539:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:17:33.217 fmMaryland2[30539:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:18:24.807 fmMaryland2[30953:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:18:24.840 fmMaryland2[30953:c07] Resetting plugins due to page load.
+2013-04-23 21:18:25.093 fmMaryland2[30953:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:18:25.100 fmMaryland2[30953:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:19:10.059 fmMaryland2[31371:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:19:10.094 fmMaryland2[31371:c07] Resetting plugins due to page load.
+2013-04-23 21:19:10.367 fmMaryland2[31371:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:19:10.373 fmMaryland2[31371:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:20:08.992 fmMaryland2[31786:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:20:09.025 fmMaryland2[31786:c07] Resetting plugins due to page load.
+2013-04-23 21:20:09.264 fmMaryland2[31786:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:20:09.271 fmMaryland2[31786:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:20:40.583 fmMaryland2[32199:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:20:40.624 fmMaryland2[32199:c07] Resetting plugins due to page load.
+2013-04-23 21:20:40.976 fmMaryland2[32199:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:20:40.982 fmMaryland2[32199:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:21:38.276 fmMaryland2[32616:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:21:38.308 fmMaryland2[32616:c07] Resetting plugins due to page load.
+2013-04-23 21:21:42.614 fmMaryland2[32616:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:21:42.620 fmMaryland2[32616:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:21:43.454 fmMaryland2[32616:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 21:21:43.454 fmMaryland2[32616:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"location":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}}
+2013-04-23 21:21:43.454 fmMaryland2[32616:c07] [LOG] the query {"where":{},"limit":25}
+2013-04-23 21:21:44.178 fmMaryland2[32616:c07] [LOG] 25
+2013-04-23 21:22:10.086 fmMaryland2[33029:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:22:10.118 fmMaryland2[33029:c07] Resetting plugins due to page load.
+2013-04-23 21:22:12.414 fmMaryland2[33029:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:22:12.420 fmMaryland2[33029:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:22:12.471 fmMaryland2[33029:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 21:22:12.471 fmMaryland2[33029:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"location":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}}
+2013-04-23 21:22:12.472 fmMaryland2[33029:c07] [LOG] the query {"where":{},"limit":25}
+2013-04-23 21:22:12.769 fmMaryland2[33029:c07] [LOG] 25
+2013-04-23 21:23:06.524 fmMaryland2[33450:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:23:06.557 fmMaryland2[33450:c07] Resetting plugins due to page load.
+2013-04-23 21:23:06.797 fmMaryland2[33450:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:23:06.804 fmMaryland2[33450:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:23:35.226 fmMaryland2[33862:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:23:35.259 fmMaryland2[33862:c07] Resetting plugins due to page load.
+2013-04-23 21:23:35.509 fmMaryland2[33862:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:23:35.516 fmMaryland2[33862:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:23:53.420 fmMaryland2[34272:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:23:53.456 fmMaryland2[34272:c07] Resetting plugins due to page load.
+2013-04-23 21:23:57.020 fmMaryland2[34272:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:23:57.029 fmMaryland2[34272:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:23:57.518 fmMaryland2[34272:c07] [LOG] got location {"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}
+2013-04-23 21:23:57.518 fmMaryland2[34272:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"location":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}}
+2013-04-23 21:23:57.519 fmMaryland2[34272:c07] [LOG] the query {"where":{},"limit":25}
+2013-04-23 21:23:58.038 fmMaryland2[34272:c07] [LOG] 25
+2013-04-23 21:24:15.333 fmMaryland2[34687:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:24:15.365 fmMaryland2[34687:c07] Resetting plugins due to page load.
+2013-04-23 21:24:15.590 fmMaryland2[34687:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:24:15.596 fmMaryland2[34687:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:26:14.922 fmMaryland2[35114:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:26:14.959 fmMaryland2[35114:c07] Resetting plugins due to page load.
+2013-04-23 21:26:15.217 fmMaryland2[35114:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:26:15.224 fmMaryland2[35114:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:27:01.556 fmMaryland2[35531:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:27:01.591 fmMaryland2[35531:c07] Resetting plugins due to page load.
+2013-04-23 21:27:01.831 fmMaryland2[35531:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:27:01.838 fmMaryland2[35531:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:27:23.806 fmMaryland2[35945:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:27:23.839 fmMaryland2[35945:c07] Resetting plugins due to page load.
+2013-04-23 21:27:24.055 fmMaryland2[35945:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:27:24.062 fmMaryland2[35945:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:29:48.769 fmMaryland2[36373:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:29:48.806 fmMaryland2[36373:c07] Resetting plugins due to page load.
+2013-04-23 21:29:49.045 fmMaryland2[36373:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:29:49.052 fmMaryland2[36373:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:31:59.793 fmMaryland2[36597:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:31:59.836 fmMaryland2[36597:c07] Resetting plugins due to page load.
+2013-04-23 21:32:00.096 fmMaryland2[36597:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:32:00.103 fmMaryland2[36597:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:33:28.817 fmMaryland2[37035:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:33:28.850 fmMaryland2[37035:c07] Resetting plugins due to page load.
+2013-04-23 21:33:35.654 fmMaryland2[37035:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:33:35.660 fmMaryland2[37035:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:35:44.028 fmMaryland2[37458:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:35:44.061 fmMaryland2[37458:c07] Resetting plugins due to page load.
+2013-04-23 21:35:46.490 fmMaryland2[37458:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:35:46.496 fmMaryland2[37458:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:35:57.024 fmMaryland2[37458:c07] [LOG] position [object Object]
+2013-04-23 21:36:08.868 fmMaryland2[37458:c07] [LOG] position [object Object]
+2013-04-23 21:39:11.175 fmMaryland2[37888:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:39:11.209 fmMaryland2[37888:c07] Resetting plugins due to page load.
+2013-04-23 21:39:14.410 fmMaryland2[37888:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:39:14.416 fmMaryland2[37888:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 21:42:16.298 fmMaryland2[38312:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 21:42:16.330 fmMaryland2[38312:c07] Resetting plugins due to page load.
+2013-04-23 21:42:19.465 fmMaryland2[38312:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 21:42:19.471 fmMaryland2[38312:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+Terminating in response to SpringBoard's termination.
+2013-04-23 22:15:46.908 fmMaryland2[38980:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 22:15:46.937 fmMaryland2[38980:c07] Resetting plugins due to page load.
+2013-04-23 22:15:49.284 fmMaryland2[38980:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 22:16:50.896 fmMaryland2[39409:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 22:16:50.928 fmMaryland2[39409:c07] Resetting plugins due to page load.
+2013-04-23 22:16:53.954 fmMaryland2[39409:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 22:16:53.961 fmMaryland2[39409:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 22:16:54.896 fmMaryland2[39409:c07] [LOG] 0
+2013-04-23 22:17:16.701 fmMaryland2[39409:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"searchDistance":"40","searchString":""}
+2013-04-23 22:17:16.701 fmMaryland2[39409:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.010104071940992219}},"limit":25}
+2013-04-23 22:17:16.819 fmMaryland2[39409:c07] [LOG] 0
+2013-04-23 22:17:34.211 fmMaryland2[39409:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"searchDistance":"","searchString":""}
+2013-04-23 22:17:34.211 fmMaryland2[39409:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.0025260179852480548}},"limit":25}
+2013-04-23 22:17:34.358 fmMaryland2[39409:c07] [LOG] 0
+2013-04-23 22:18:12.877 fmMaryland2[39837:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 22:18:12.912 fmMaryland2[39837:c07] Resetting plugins due to page load.
+2013-04-23 22:18:15.115 fmMaryland2[39837:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 22:18:15.121 fmMaryland2[39837:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 22:18:15.713 fmMaryland2[39837:c07] [LOG] 0
+2013-04-23 22:18:30.206 fmMaryland2[39837:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"searchDistance":"1000","searchString":""}
+2013-04-23 22:18:30.206 fmMaryland2[39837:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.25260179852480547}},"limit":25}
+2013-04-23 22:18:30.337 fmMaryland2[39837:c07] [LOG] 0
+2013-04-23 22:19:08.690 fmMaryland2[40258:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 22:19:08.723 fmMaryland2[40258:c07] Resetting plugins due to page load.
+2013-04-23 22:19:10.681 fmMaryland2[40258:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 22:19:10.687 fmMaryland2[40258:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 22:19:11.358 fmMaryland2[40258:c07] [LOG] 0
+2013-04-23 22:19:19.408 fmMaryland2[40258:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"searchDistance":"10000","searchString":""}
+2013-04-23 22:19:19.408 fmMaryland2[40258:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":2.5260179852480547}},"limit":25}
+2013-04-23 22:19:19.604 fmMaryland2[40258:c07] [LOG] 25
+2013-04-23 22:19:25.250 fmMaryland2[40258:c07] [LOG] currentObject was updated JrCp0052aQ
+2013-04-23 22:19:25.250 fmMaryland2[40258:c07] [LOG] object information {"Address":"Fulks Corner Ave & MD Rte 355","City":"Gaithersburg","County":"MG","Description":"Farmers / producers include:\r - Scenic View Orchards (MD)\r - Tuckey's Mountain Grown Berries, Fruits & Vegetables (PA)\r - Homestead Farm (MD)","Email":"khux@gaithersburgmd.gov","Fax":null,"Latitude":33.192508,"Longitude":-82.529541,"Name":"Fulks Corner (Gaithersburg) Farmers' Market","Phone":"301-258-6350","State":"MD","Website":"www.gaithersburgmd.gov/markets","Zip":"20877","cellPhone":null,"contactName":"Ms. Kristen Heimer Hux","mailAddress":"506 S. Frederick Ave.","mailCity":"Gaithersburg","mailState":"MD","mailZip":"20877","openTimes":"Thursday: 1:00 p.m. to 6:00 p.m. May 2 - November 21","operatingAcres":"0","operatingSince":"1992","phoneOther":null,"tollFreePhone":null,"location":{"__type":"GeoPoint","latitude":33.192508,"longitude":-82.529541},"objectId":"JrCp0052aQ","createdAt":"2013-04-17T04:18:29.836Z","updatedAt":"2013-04-19T03:23:34.957Z"}
+2013-04-23 22:19:33.106 fmMaryland2[40258:c07] [LOG] position [object Object]
+2013-04-23 22:26:41.701 fmMaryland2[40724:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 22:26:41.733 fmMaryland2[40724:c07] Resetting plugins due to page load.
+2013-04-23 22:26:44.434 fmMaryland2[40724:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 22:26:44.441 fmMaryland2[40724:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 22:26:44.854 fmMaryland2[40724:c07] [LOG] 0
+2013-04-23 22:26:54.697 fmMaryland2[40724:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"searchDistance":"10000","searchString":""}
+2013-04-23 22:26:54.698 fmMaryland2[40724:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":2.5260179852480547}},"limit":25}
+2013-04-23 22:26:54.939 fmMaryland2[40724:c07] [LOG] 25
+2013-04-23 22:26:57.350 fmMaryland2[40724:c07] [LOG] currentObject was updated oK2cvg0sVH
+2013-04-23 22:26:57.350 fmMaryland2[40724:c07] [LOG] object information {"Address":"5th & Bay Avenue","City":"North Beach","County":"CV","Description":null,"Email":"northbeach@northbeachmd.org","Fax":null,"Latitude":46.792801,"Longitude":-92.243111,"Name":"North Beach Friday Night Market","Phone":"301-855-6681","State":"MD","Website":null,"Zip":"20714","cellPhone":"202-257-3253","contactName":"Ms. Stacy  Wilkerson","mailAddress":"Bayside Partners P.O. Box 99","mailCity":"North Beach","mailState":"MD","mailZip":"20714","openTimes":"Friday: 6:00 p.m.- 9:00 p.m. May 3 - October 4","operatingAcres":"0","operatingSince":"1992","phoneOther":null,"tollFreePhone":null,"location":{"__type":"GeoPoint","latitude":46.792801,"longitude":-92.243111},"objectId":"oK2cvg0sVH","createdAt":"2013-04-17T04:18:35.326Z","updatedAt":"2013-04-19T03:12:37.217Z"}
+2013-04-23 22:27:16.290 fmMaryland2[40724:c07] [LOG] currentObject was updated JrCp0052aQ
+2013-04-23 22:27:16.290 fmMaryland2[40724:c07] [LOG] object information {"Address":"Fulks Corner Ave & MD Rte 355","City":"Gaithersburg","County":"MG","Description":"Farmers / producers include:\r - Scenic View Orchards (MD)\r - Tuckey's Mountain Grown Berries, Fruits & Vegetables (PA)\r - Homestead Farm (MD)","Email":"khux@gaithersburgmd.gov","Fax":null,"Latitude":33.192508,"Longitude":-82.529541,"Name":"Fulks Corner (Gaithersburg) Farmers' Market","Phone":"301-258-6350","State":"MD","Website":"www.gaithersburgmd.gov/markets","Zip":"20877","cellPhone":null,"contactName":"Ms. Kristen Heimer Hux","mailAddress":"506 S. Frederick Ave.","mailCity":"Gaithersburg","mailState":"MD","mailZip":"20877","openTimes":"Thursday: 1:00 p.m. to 6:00 p.m. May 2 - November 21","operatingAcres":"0","operatingSince":"1992","phoneOther":null,"tollFreePhone":null,"location":{"__type":"GeoPoint","latitude":33.192508,"longitude":-82.529541},"objectId":"JrCp0052aQ","createdAt":"2013-04-17T04:18:29.836Z","updatedAt":"2013-04-19T03:23:34.957Z"}
+2013-04-23 22:27:16.305 fmMaryland2[40724:c07] [LOG] currentObject was updated JrCp0052aQ
+2013-04-23 22:27:16.305 fmMaryland2[40724:c07] [LOG] object information {"Address":"Fulks Corner Ave & MD Rte 355","City":"Gaithersburg","County":"MG","Description":"Farmers / producers include:\r - Scenic View Orchards (MD)\r - Tuckey's Mountain Grown Berries, Fruits & Vegetables (PA)\r - Homestead Farm (MD)","Email":"khux@gaithersburgmd.gov","Fax":null,"Latitude":33.192508,"Longitude":-82.529541,"Name":"Fulks Corner (Gaithersburg) Farmers' Market","Phone":"301-258-6350","State":"MD","Website":"www.gaithersburgmd.gov/markets","Zip":"20877","cellPhone":null,"contactName":"Ms. Kristen Heimer Hux","mailAddress":"506 S. Frederick Ave.","mailCity":"Gaithersburg","mailState":"MD","mailZip":"20877","openTimes":"Thursday: 1:00 p.m. to 6:00 p.m. May 2 - November 21","operatingAcres":"0","operatingSince":"1992","phoneOther":null,"tollFreePhone":null,"location":{"__type":"GeoPoint","latitude":33.192508,"longitude":-82.529541},"objectId":"JrCp0052aQ","createdAt":"2013-04-17T04:18:29.836Z","updatedAt":"2013-04-19T03:23:34.957Z"}
+2013-04-23 22:28:32.810 fmMaryland2[41155:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 22:28:32.844 fmMaryland2[41155:c07] Resetting plugins due to page load.
+2013-04-23 22:28:34.762 fmMaryland2[41155:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 22:28:34.768 fmMaryland2[41155:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 22:28:36.491 fmMaryland2[41155:c07] [LOG] 0
+2013-04-23 22:28:43.167 fmMaryland2[41155:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"searchDistance":"10000","searchString":""}
+2013-04-23 22:28:43.167 fmMaryland2[41155:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":2.5260179852480547}},"limit":25}
+2013-04-23 22:28:43.402 fmMaryland2[41155:c07] [LOG] 25
+2013-04-23 22:28:45.016 fmMaryland2[41155:c07] [LOG] currentObject was updated JrCp0052aQ
+2013-04-23 22:28:45.017 fmMaryland2[41155:c07] [LOG] object information {"Address":"Fulks Corner Ave & MD Rte 355","City":"Gaithersburg","County":"MG","Description":"Farmers / producers include:\r - Scenic View Orchards (MD)\r - Tuckey's Mountain Grown Berries, Fruits & Vegetables (PA)\r - Homestead Farm (MD)","Email":"khux@gaithersburgmd.gov","Fax":null,"Latitude":33.192508,"Longitude":-82.529541,"Name":"Fulks Corner (Gaithersburg) Farmers' Market","Phone":"301-258-6350","State":"MD","Website":"www.gaithersburgmd.gov/markets","Zip":"20877","cellPhone":null,"contactName":"Ms. Kristen Heimer Hux","mailAddress":"506 S. Frederick Ave.","mailCity":"Gaithersburg","mailState":"MD","mailZip":"20877","openTimes":"Thursday: 1:00 p.m. to 6:00 p.m. May 2 - November 21","operatingAcres":"0","operatingSince":"1992","phoneOther":null,"tollFreePhone":null,"location":{"__type":"GeoPoint","latitude":33.192508,"longitude":-82.529541},"objectId":"JrCp0052aQ","createdAt":"2013-04-17T04:18:29.836Z","updatedAt":"2013-04-19T03:23:34.957Z"}
+2013-04-23 22:29:09.790 fmMaryland2[41370:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 22:29:09.829 fmMaryland2[41370:c07] Resetting plugins due to page load.
+2013-04-23 22:29:33.631 fmMaryland2[41370:2803] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2013-04-23 22:29:33.661 fmMaryland2[41370:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 22:29:33.667 fmMaryland2[41370:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 22:29:34.473 fmMaryland2[41370:c07] [LOG] 0
+2013-04-23 22:29:42.417 fmMaryland2[41370:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"searchDistance":"10000","searchString":""}
+2013-04-23 22:29:42.418 fmMaryland2[41370:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":2.5260179852480547}},"limit":25}
+2013-04-23 22:29:42.662 fmMaryland2[41370:c07] [LOG] 25
+2013-04-23 22:29:44.492 fmMaryland2[41370:c07] [LOG] currentObject was updated JrCp0052aQ
+2013-04-23 22:29:44.492 fmMaryland2[41370:c07] [LOG] object information {"Address":"Fulks Corner Ave & MD Rte 355","City":"Gaithersburg","County":"MG","Description":"Farmers / producers include:\r - Scenic View Orchards (MD)\r - Tuckey's Mountain Grown Berries, Fruits & Vegetables (PA)\r - Homestead Farm (MD)","Email":"khux@gaithersburgmd.gov","Fax":null,"Latitude":33.192508,"Longitude":-82.529541,"Name":"Fulks Corner (Gaithersburg) Farmers' Market","Phone":"301-258-6350","State":"MD","Website":"www.gaithersburgmd.gov/markets","Zip":"20877","cellPhone":null,"contactName":"Ms. Kristen Heimer Hux","mailAddress":"506 S. Frederick Ave.","mailCity":"Gaithersburg","mailState":"MD","mailZip":"20877","openTimes":"Thursday: 1:00 p.m. to 6:00 p.m. May 2 - November 21","operatingAcres":"0","operatingSince":"1992","phoneOther":null,"tollFreePhone":null,"location":{"__type":"GeoPoint","latitude":33.192508,"longitude":-82.529541},"objectId":"JrCp0052aQ","createdAt":"2013-04-17T04:18:29.836Z","updatedAt":"2013-04-19T03:23:34.957Z"}
+2013-04-23 22:30:38.573 fmMaryland2[41811:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 22:30:38.611 fmMaryland2[41811:c07] Resetting plugins due to page load.
+2013-04-23 22:30:40.182 fmMaryland2[41811:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 22:30:40.189 fmMaryland2[41811:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 22:30:40.388 fmMaryland2[41811:c07] [LOG] 0
+2013-04-23 22:30:48.642 fmMaryland2[41811:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"searchDistance":"10000","searchString":""}
+2013-04-23 22:30:48.642 fmMaryland2[41811:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":2.5260179852480547}},"limit":25}
+2013-04-23 22:30:48.753 fmMaryland2[41811:c07] [LOG] 25
+2013-04-23 22:30:50.787 fmMaryland2[41811:c07] [LOG] currentObject was updated JrCp0052aQ
+2013-04-23 22:30:50.787 fmMaryland2[41811:c07] [LOG] object information {"Address":"Fulks Corner Ave & MD Rte 355","City":"Gaithersburg","County":"MG","Description":"Farmers / producers include:\r - Scenic View Orchards (MD)\r - Tuckey's Mountain Grown Berries, Fruits & Vegetables (PA)\r - Homestead Farm (MD)","Email":"khux@gaithersburgmd.gov","Fax":null,"Latitude":33.192508,"Longitude":-82.529541,"Name":"Fulks Corner (Gaithersburg) Farmers' Market","Phone":"301-258-6350","State":"MD","Website":"www.gaithersburgmd.gov/markets","Zip":"20877","cellPhone":null,"contactName":"Ms. Kristen Heimer Hux","mailAddress":"506 S. Frederick Ave.","mailCity":"Gaithersburg","mailState":"MD","mailZip":"20877","openTimes":"Thursday: 1:00 p.m. to 6:00 p.m. May 2 - November 21","operatingAcres":"0","operatingSince":"1992","phoneOther":null,"tollFreePhone":null,"location":{"__type":"GeoPoint","latitude":33.192508,"longitude":-82.529541},"objectId":"JrCp0052aQ","createdAt":"2013-04-17T04:18:29.836Z","updatedAt":"2013-04-19T03:23:34.957Z"}
+2013-04-23 22:37:12.460 fmMaryland2[41811:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"searchDistance":10,"searchString":"Bethesda"}
+2013-04-23 22:37:12.460 fmMaryland2[41811:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.0025260179852480548},"Name":{"$regex":"\\QBethesda\\E"}},"limit":25}
+2013-04-23 22:37:12.716 fmMaryland2[41811:c07] [LOG] 0
+2013-04-23 22:37:12.728 fmMaryland2[41811:c07] [LOG] in parse query undefined {"page":1,"limit":25,"skip":0,"searchDistance":10,"searchString":"Bethesda","location":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417}}
+2013-04-23 22:37:12.728 fmMaryland2[41811:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":0.0025260179852480548},"Name":{"$regex":"\\QBethesda\\E"}},"limit":25,"skip":25}
+2013-04-23 22:37:12.792 fmMaryland2[41811:c07] [LOG] 0
+2013-04-23 22:37:21.198 fmMaryland2[41811:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"searchDistance":"10000","searchString":"Bethesda"}
+2013-04-23 22:37:21.198 fmMaryland2[41811:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":2.5260179852480547},"Name":{"$regex":"\\QBethesda\\E"}},"limit":25}
+2013-04-23 22:37:21.341 fmMaryland2[41811:c07] [LOG] 1
+2013-04-23 22:37:22.794 fmMaryland2[41811:c07] [LOG] currentObject was updated 6l7vXldFTK
+2013-04-23 22:37:22.817 fmMaryland2[41811:c07] [LOG] currentObject was updated 6l7vXldFTK
+2013-04-23 22:37:22.817 fmMaryland2[41811:c07] [LOG] object information {"Address":"7600 Arlington Road","City":"Bethesda","County":"MG","Description":"Bethesda Central Farm Market was created to provide Bethesda, Chevy Chase, Upper North West DC, and Potomac with a complete farm shopping experience. Both Mitch and Ann were looking for \"the place\" where they could do their weekly food shopping in one loc","Email":null,"Fax":null,"Latitude":38.986142,"Longitude":-77.099569,"Name":"Bethesda Central Farm Market","Phone":"301-440-8496","State":"MD","Website":"www.centralfarmmarkets.com","Zip":"20814","cellPhone":null,"contactName":"Mitchell  Berliner","mailAddress":"7902 Turncrest Drive","mailCity":"Potomac","mailState":"MD","mailZip":"20854","openTimes":"Sunday: 9:00 a.m. to 1:00 p.m. year round","operatingAcres":"0","operatingSince":"2009","phoneOther":null,"tollFreePhone":null,"location":{"__type":"GeoPoint","latitude":38.986142,"longitude":-77.099569},"objectId":"6l7vXldFTK","createdAt":"2013-04-17T04:18:24.192Z","updatedAt":"2013-04-19T02:59:08.925Z"}
+2013-04-23 22:39:11.537 fmMaryland2[42288:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 22:39:11.570 fmMaryland2[42288:c07] Resetting plugins due to page load.
+2013-04-23 22:39:13.588 fmMaryland2[42288:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 22:39:13.594 fmMaryland2[42288:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 22:39:13.775 fmMaryland2[42288:c07] [LOG] 0
+2013-04-23 22:39:27.839 fmMaryland2[42288:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"searchDistance":"10000","searchString":"Bethesda"}
+2013-04-23 22:39:27.839 fmMaryland2[42288:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":2.5260179852480547},"Name":{"$regex":"\\QBethesda\\E"}},"limit":25}
+2013-04-23 22:39:27.926 fmMaryland2[42288:c07] [LOG] 1
+2013-04-23 22:39:29.553 fmMaryland2[42288:c07] [LOG] currentObject was updated 6l7vXldFTK
+2013-04-23 22:39:29.553 fmMaryland2[42288:c07] [LOG] object information {"Address":"7600 Arlington Road","City":"Bethesda","County":"MG","Description":"Bethesda Central Farm Market was created to provide Bethesda, Chevy Chase, Upper North West DC, and Potomac with a complete farm shopping experience. Both Mitch and Ann were looking for \"the place\" where they could do their weekly food shopping in one loc","Email":null,"Fax":null,"Latitude":38.986142,"Longitude":-77.099569,"Name":"Bethesda Central Farm Market","Phone":"301-440-8496","State":"MD","Website":"www.centralfarmmarkets.com","Zip":"20814","cellPhone":null,"contactName":"Mitchell  Berliner","mailAddress":"7902 Turncrest Drive","mailCity":"Potomac","mailState":"MD","mailZip":"20854","openTimes":"Sunday: 9:00 a.m. to 1:00 p.m. year round","operatingAcres":"0","operatingSince":"2009","phoneOther":null,"tollFreePhone":null,"location":{"__type":"GeoPoint","latitude":38.986142,"longitude":-77.099569},"objectId":"6l7vXldFTK","createdAt":"2013-04-17T04:18:24.192Z","updatedAt":"2013-04-19T02:59:08.925Z"}
+2013-04-23 22:40:33.225 fmMaryland2[42323:c07] Multi-tasking -> Device: YES, App: YES
+2013-04-23 22:40:33.259 fmMaryland2[42323:c07] Resetting plugins due to page load.
+2013-04-23 22:40:37.394 fmMaryland2[42323:c07] Finished load of: file:///Users/aaronksaunders/Library/Application%20Support/iPhone%20Simulator/6.0/Applications/9B59ACBC-686B-42CF-AAF9-11FEF0BF88E3/fmMaryland2.app/www/index.html#/
+2013-04-23 22:40:37.400 fmMaryland2[42323:c07] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-23 22:40:37.590 fmMaryland2[42323:c07] [LOG] 0
+2013-04-24 00:48:44.051 fmMaryland2[42323:c07] [LOG] in parse query undefined {"page":0,"limit":25,"skip":0,"searchDistance":"10000","searchString":""}
+2013-04-24 00:48:44.052 fmMaryland2[42323:c07] [LOG] the query {"where":{"location":{"$nearSphere":{"__type":"GeoPoint","latitude":37.785834,"longitude":-122.406417},"$maxDistance":2.5260179852480547}},"limit":25}
+2013-04-24 00:48:44.378 fmMaryland2[42323:c07] [LOG] 25
+Terminating in response to SpringBoard's termination.

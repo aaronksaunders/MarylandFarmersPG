@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>8dd09585-f367-4602-a1f2-72d65be7e80b</ProjectGuid>
+    <ProjectTypeGuids>{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}</ProjectTypeGuids>
+    <AppIdentifier>com.telerik.farmers_lungo_pg</AppIdentifier>
+    <ProjectName>farmers-lungo-pg</ProjectName>
+    <IsRunnable>true</IsRunnable>
+    <TemplateAppName>Cordova240</TemplateAppName>
+    <AndroidPermissions>android.permission.CAMERA;android.permission.VIBRATE;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_LOCATION_EXTRA_COMMANDS;android.permission.READ_PHONE_STATE;android.permission.INTERNET;android.permission.RECEIVE_SMS;android.permission.RECORD_AUDIO;android.permission.MODIFY_AUDIO_SETTINGS;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.ACCESS_NETWORK_STATE;android.permission.ACCOUNT_MANAGER;android.permission.GET_ACCOUNTS;android.permission.MANAGE_ACCOUNTS;android.permission.BROADCAST_STICKY</AndroidPermissions>
+    <DeviceOrientations>Portrait</DeviceOrientations>
+    <iOSStatusBarStyle>Default</iOSStatusBarStyle>
+    <AndroidHardwareAcceleration>True</AndroidHardwareAcceleration>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="App_Resources" />
+    <Folder Include="App_Resources\iOS">
+      <Platform>iOS</Platform>
+    </Folder>
+    <Folder Include="App_Resources\Android">
+      <Platform>Android</Platform>
+    </Folder>
+    <Folder Include="App_Resources\Android\drawable-hdpi">
+      <Platform>Android</Platform>
+    </Folder>
+    <Folder Include="App_Resources\Android\drawable-mdpi">
+      <Platform>Android</Platform>
+    </Folder>
+    <Folder Include="App_Resources\Android\drawable-ldpi">
+      <Platform>Android</Platform>
+    </Folder>
+    <Folder Include="App_Resources\Android\drawable-nodpi">
+      <Platform>Android</Platform>
+    </Folder>
+    <Folder Include="css" />
+    <Folder Include="lungo-farmers-pg\partials" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="App_Resources\iOS\icon.png" />
+    <Resource Include="App_Resources\iOS\icon@2x.png" />
+    <Resource Include="App_Resources\iOS\icon-72.png" />
+    <Resource Include="App_Resources\iOS\icon-72@2x.png" />
+    <Resource Include="App_Resources\iOS\Icon-Small.png" />
+    <Resource Include="App_Resources\iOS\Icon-Small@2x.png" />
+    <Resource Include="App_Resources\iOS\Icon-Small-50.png" />
+    <Resource Include="App_Resources\iOS\Icon-Small-50@2x.png" />
+    <Resource Include="App_Resources\iOS\Default.png" />
+    <Resource Include="App_Resources\iOS\Default@2x.png" />
+    <Resource Include="App_Resources\iOS\Default-568h@2x.png" />
+    <Resource Include="App_Resources\iOS\Default-Portrait.png" />
+    <Resource Include="App_Resources\iOS\Default-Landscape.png" />
+    <Resource Include="App_Resources\iOS\Default-Portrait@2x.png" />
+    <Resource Include="App_Resources\iOS\Default-Landscape@2x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="App_Resources\Android\drawable-hdpi\icon.png" />
+    <Resource Include="App_Resources\Android\drawable-mdpi\icon.png" />
+    <Resource Include="App_Resources\Android\drawable-ldpi\icon.png" />
+    <Resource Include="App_Resources\Android\drawable-nodpi\splashscreen.9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="components\angular\angular-ui.min.js" />
+    <Content Include="cordova.ios.js">
+      <Platform>iOS</Platform>
+      <TargetName>cordova.js</TargetName>
+    </Content>
+    <Content Include="cordova.android.js">
+      <Platform>Android</Platform>
+      <TargetName>cordova.js</TargetName>
+    </Content>
+    <Content Include="lungo-farmers-pg\.DS_Store" />
+    <Content Include="lungo-farmers-pg\App_Resources\Android\drawable-hdpi\icon.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\Android\drawable-ldpi\icon.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\Android\drawable-mdpi\icon.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\Android\drawable-nodpi\splashscreen.9.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\Default-568h@2x.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\Default-Landscape.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\Default-Landscape@2x.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\Default-Portrait.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\Default-Portrait@2x.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\Default.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\Default@2x.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\icon-72.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\icon-72@2x.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\Icon-Small-50.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\Icon-Small-50@2x.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\Icon-Small.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\Icon-Small@2x.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\icon.png" />
+    <Content Include="lungo-farmers-pg\App_Resources\iOS\icon@2x.png" />
+    <Content Include="components\angular\angular-gm-0.0.1.js" />
+    <Content Include="components\angular\angular.js" />
+    <Content Include="components\angular\angular.min.js" />
+    <Content Include="components\lungo-angular-bridge\src\lungo-angular-bridge.js" />
+    <Content Include="components\lungo\lungo.css" />
+    <Content Include="components\lungo\lungo.icon.brand.css" />
+    <Content Include="components\lungo\lungo.icon.css" />
+    <Content Include="components\lungo\lungo.js" />
+    <Content Include="components\lungo\theme.lungo.css" />
+    <Content Include="components\parse-min.js" />
+    <Content Include="components\quojs\quo.debug.js" />
+    <Content Include="components\quojs\quo.js" />
+    <Content Include="lungo-farmers-pg\cordova.android.js" />
+    <Content Include="lungo-farmers-pg\cordova.ios.js" />
+    <Content Include="css\index.css" />
+    <Content Include="img\cordova.png" />
+    <Content Include="img\logo.png" />
+    <Content Include="index.html" />
+    <Content Include="js\app.js" />
+    <Content Include="js\controllers.js" />
+    <Content Include="js\index.js" />
+    <Content Include="js\services.js" />
+    <Content Include="partials\camera.html" />
+    <Content Include="partials\detail.html" />
+    <Content Include="partials\home.html" />
+    <Content Include="partials\map.html" />
+    <Content Include="partials\search.html" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Telerik\ICE\Tools\Mobile\MobileTools.targets" />
+</Project>
