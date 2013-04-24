@@ -22,6 +22,8 @@
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/bin/res/drawable-xhdpi/icon.png \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/App_Resources \
+/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/childbrowser \
+/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/childbrowser.js \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/config.xml \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/cordova.android.js \
@@ -33,6 +35,7 @@
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/index.html \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/js \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/partials \
+/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/plugins \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/App_Resources/Android \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/App_Resources/iOS \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/App_Resources/Android/drawable-hdpi \
@@ -58,8 +61,14 @@
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/App_Resources/iOS/Icon-Small@2x.png \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/App_Resources/iOS/icon.png \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/App_Resources/iOS/icon@2x.png \
+/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/childbrowser/childbrowser \
+/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/childbrowser/childbrowser/icon_arrow_left.png \
+/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/childbrowser/childbrowser/icon_arrow_right.png \
+/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/childbrowser/childbrowser/icon_close.png \
+/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/childbrowser.js/childbrowser.js \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/angular \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/angular-phonegap-ready \
+/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/fb-api \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/lungo \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/lungo-angular-bridge \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/parse-min.js \
@@ -72,6 +81,7 @@
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/angular-phonegap-ready/component.json \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/angular-phonegap-ready/README.md \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/angular-phonegap-ready/ready.js \
+/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/fb-api/jso.js \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/lungo/lungo.css \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/lungo/lungo.icon.brand.css \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/components/lungo/lungo.icon.css \
@@ -86,6 +96,7 @@
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/img/logo.png \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/js/app.js \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/js/controllers.js \
+/Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/js/fb-service.js \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/js/index.js \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/js/services.js \
 /Users/aaronksaunders/WebstormProjects/fmMaryland2/platforms/android/assets/www/partials/camera.html \

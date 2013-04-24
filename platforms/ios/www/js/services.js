@@ -86,6 +86,7 @@ angular.module('Services', [], function ($provide) {
                 // if we have a name then use it
                 if ($scope.queryStatus.searchString && $scope.queryStatus.searchString !== "") {
                     query.contains("Name", $scope.queryStatus.searchString);
+                    query.contains("Description", $scope.queryStatus.searchString);
                 }
 
                 console.log("the query " + JSON.stringify(query));
@@ -105,7 +106,11 @@ angular.module('Services', [], function ($provide) {
 
                                     // the distance
                                     var loc = results[i].get("location") || null;
-                                    var dist;//var dist = loc && loc.latitude && loc.longitude ? Math.round(loc.milesTo($scope.queryStatus.location)) : "none";
+                                    var loc2 = $scope.queryStatus.location && $scope.queryStatus.location.toJSON();
+                                    var dist = 0;
+                                    if (loc2 && loc2.latitude && loc2.longitude) {
+                                        dist = (loc && loc.latitude && loc.longitude) ? Math.round(loc.milesTo(loc2)) : "none";
+                                    }
 
 
                                     $scope.farmers.push({
@@ -122,9 +127,12 @@ angular.module('Services', [], function ($provide) {
                             } else {
                                 $scope.farmers = results.map(function (obj) {
 
-                                    // the distance
                                     var loc = obj.get("location") || null;
-                                    var dist;//var dist = loc && loc.latitude && loc.longitude ? Math.round(loc.milesTo($scope.queryStatus.location)) : "none";
+                                    var loc2 = $scope.queryStatus.location && $scope.queryStatus.location.toJSON();
+                                    var dist = 0;
+                                    if (loc2 && loc2.latitude && loc2.longitude) {
+                                        dist = (loc && loc.latitude && loc.longitude) ? Math.round(loc.milesTo(loc2)) : "none";
+                                    }
 
                                     return  {
                                         id: obj.id,

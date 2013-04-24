@@ -1,3 +1,6 @@
 # view AndroidManifest.xml #generated:21
 -keep class com.ci.fmMaryland2.fmMaryland2 { <init>(...); }
 
+# view AndroidManifest.xml #generated:27
+-keep class com.phonegap.plugins.childBrowser.ChildBrowser { <init>(...); }
+

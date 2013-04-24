@@ -1,4 +1,4 @@
-angular.module("myApp").controller('AppController', function ($rootScope, $scope, $location, $window, ParseService) {
+angular.module("myApp").controller('AppController', function ($rootScope, $scope, $location, $window, ParseService, FacebookService) {
     $scope.triggerAside = function () {
         console.log("trigger aside");
         Lungo.Router.aside('main', 'aside1');
@@ -7,6 +7,26 @@ angular.module("myApp").controller('AppController', function ($rootScope, $scope
 
     $scope.wasClicked = function (_objectValue) {
         $rootScope.currentObject = _objectValue;
+    };
+
+    $scope.facebookLogout = function () {
+        FacebookService.logout();
+        $scope.loggedInFB = false;
+    };
+
+    $scope.facebookLogin = function () {
+        FacebookService.login($rootScope, function () {
+
+            var wallData = {
+                message: "WOW with my mobile application I can post to my Facebook wall!",
+                link: "http://www.clearlyinnovative.com",
+                picture: "http://www.clearlyinnovative.com/wp-content/themes/theme/images/pic-featured.png"
+            };
+
+            FacebookService.postToWall($scope, wallData);
+
+            $scope.loggedInFB = true;
+        });
     };
 
     $scope.farmers = [];
@@ -47,10 +67,12 @@ angular.module("myApp").controller('AppController', function ($rootScope, $scope
         });
     };
 
-    // set up the parse service and load default data
-    alert("ready");
-    ParseService.initialize($scope, startUpApp);
+    // set up the parse service and load default data, need to wait
+    // for phonegap to be ready
+    document.addEventListener('deviceready', function () {
+        ParseService.initialize($scope, startUpApp);
 
+    });
 
 });
 

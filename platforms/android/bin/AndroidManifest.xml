@@ -24,6 +24,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:label="@string/app_name" android:name="com.phonegap.plugins.childBrowser.ChildBrowser">
+            <intent-filter>
+            </intent-filter>
+        </activity>
     </application>
     <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="17" />
 </manifest>
